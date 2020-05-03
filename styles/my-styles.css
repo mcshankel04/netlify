@@ -1,0 +1,115 @@
+html {
+scroll-behavior: smooth;  
+} 
+
+
+.navbar {
+  background-color: purple;
+}
+.navbar-brand, .nav-link: hover{
+  color:gold !important;
+ 
+}
+
+.dropdown-menu {
+  background-color: blue !important;
+}
+@media (max-width; 600px)
+.carousel {
+  display: none;
+}
+.my-google-fonts {
+  font-size: 50px;
+  font-family: pacifico;
+    
+  
+}
+.fa-row {
+  background-color: purple;
+  padding-top: 30px;
+  padding-bottom: 40px;
+    color: #ffffff;
+ text-align: center;
+  
+ 
+  
+}
+
+.footer-row {
+  background-color: green;
+  padding-top: 30px;
+  padding-bottom: 40px;
+    color: #ffffff;
+ text-align: center;
+  
+ 
+  
+}
+.footer-row a {
+  color: #ffffff;
+}
+  
+
+
+.fab{
+   font-size: 60px;
+
+}
+.fab:hover {
+  color: gold;
+  
+}
+  
+.fab-links, .fab-links:hover{
+  color:#ffffff;
+  text-decoration: none;
+}
+
+
+.carousel-caption {
+  background-color: rgb(0,0,0,0.5);
+  width: 50%;
+  
+ margin:auto;
+}
+
+
+
+.video-row {
+  text-align: center;
+  padding: 32px;
+}
+
+.google-fonts-sample {
+  text-align: left !important;
+  font-family: Pacifico;
+  font-size: 28px;
+  padding-left: 40px;
+}.nav
+
+.gallery {
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+
+.cropped-1 {
+  object-fit: cover;
+  object-position: 40% 0;
+  width: 350px;
+  height: 350px;
+}
+
+.cropped-2 {
+  object-fit: cover;
+  object-position: 43% 0;
+  width: 350px;
+  height: 350px;
+}
+
+.cropped-3 {
+  object-fit: cover;
+  object-position: 34% 0;
+  width: 350px;
+  height: 350px;
+}
